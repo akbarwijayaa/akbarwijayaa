@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @akbarwijayaa
 - 👀 I’m interested in Data and Machine Learning
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Email me akbarwijayaok@gmail.com
 
 <!---
 akbarwijayaa/akbarwijayaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
