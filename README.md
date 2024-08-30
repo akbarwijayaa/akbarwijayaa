@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akbarwijayaa
-- 👀 I’m interested in Data and Machine Learning
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Blockchain and Smart Contract
+- 🌱 I’m currently learning Solidity for developing Smart Contract on EVM
 - 📫 Email me akbarwijayaok@gmail.com
 
 <!---
